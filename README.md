@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **Juancholour@gmail.com**
 
-- 📄 Know about my experiences [Actually, I am study system engineer](Actually, I am study system engineer)
+- 📄 Know about my experiences [Actually, I am study system engineer]
 
-- ⚡ Fun fact **I think I am**
+- ⚡ Fun fact **I think I am Amazing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
