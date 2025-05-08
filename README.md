@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/sebastian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sebastian" height="30" width="40" /></a>
 <a href="https://fb.com/juan sebastian lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan sebastian lopez" height="30" width="40" /></a>
-<a href="https://instagram.com/sebas_lop01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebas_lop01" height="30" width="40" /></a>
+<a href="https://instagram.com/se_lop01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebas_lop01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
